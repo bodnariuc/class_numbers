@@ -1,6 +1,6 @@
 <?php
 
-class StringsBodnariuc {
+class NumbersBodnariuc {
     
     public static function roundBodnariuc() {
         $value = 3.265;
@@ -108,24 +108,24 @@ class StringsBodnariuc {
         return number_format($value);
     }
 }
-var_dump(StringsBodnariuc::roundBodnariuc());
-var_dump(StringsBodnariuc::ceilBodnariuc());
-var_dump(StringsBodnariuc::floorBodnariuc());
-var_dump(StringsBodnariuc::sqrtBodnariuc());
-var_dump(StringsBodnariuc::powBodnariuc());
-var_dump(StringsBodnariuc::sinBodnariuc());
-var_dump(StringsBodnariuc::cosBodnariuc());
-var_dump(StringsBodnariuc::tanBodnariuc());
-var_dump(StringsBodnariuc::asinBodnariuc());
-var_dump(StringsBodnariuc::acosBodnariuc());
-var_dump(StringsBodnariuc::atanBodnariuc());
-var_dump(StringsBodnariuc::fmodBodnariuc());
-var_dump(StringsBodnariuc::maxBodnariuc());
-var_dump(StringsBodnariuc::minBodnariuc());
-var_dump(StringsBodnariuc::absBodnariuc());
-var_dump(StringsBodnariuc::minusBodnariuc());
-var_dump(StringsBodnariuc::plusBodnariuc());
-var_dump(StringsBodnariuc::delenoBodnariuc());
-var_dump(StringsBodnariuc::kratBodnariuc());
-var_dump(StringsBodnariuc::number_formatBodnariuc());
+var_dump(NumbersBodnariuc::roundBodnariuc());
+var_dump(NumbersBodnariuc::ceilBodnariuc());
+var_dump(NumbersBodnariuc::floorBodnariuc());
+var_dump(NumbersBodnariuc::sqrtBodnariuc());
+var_dump(NumbersBodnariuc::powBodnariuc());
+var_dump(NumbersBodnariuc::sinBodnariuc());
+var_dump(NumbersBodnariuc::cosBodnariuc());
+var_dump(NumbersBodnariuc::tanBodnariuc());
+var_dump(NumbersBodnariuc::asinBodnariuc());
+var_dump(NumbersBodnariuc::acosBodnariuc());
+var_dump(NumbersBodnariuc::atanBodnariuc());
+var_dump(NumbersBodnariuc::fmodBodnariuc());
+var_dump(NumbersBodnariuc::maxBodnariuc());
+var_dump(NumbersBodnariuc::minBodnariuc());
+var_dump(NumbersBodnariuc::absBodnariuc());
+var_dump(NumbersBodnariuc::minusBodnariuc());
+var_dump(NumbersBodnariuc::plusBodnariuc());
+var_dump(NumbersBodnariuc::delenoBodnariuc());
+var_dump(NumbersBodnariuc::kratBodnariuc());
+var_dump(NumbersBodnariuc::number_formatBodnariuc());
 ?>
